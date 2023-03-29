@@ -18,10 +18,10 @@ The following necessary dependencies must be installed to run application:
 
 
 ## Usage
-In order to use this app, ${data.usage}
+This is a README.md file generator which creates a README.md file by taking users inputs on each question the user answers. This app uses a template so that a user can use this README generator app to create a README.md file for any project he or she is working on. This project has taught me how to use node and import different modules and manipulate them to create this amazing project.
 
 ## Tests
-The following is needed to run test: ${data.test}
+The following is needed to run test: node index.js
 
 ## Visuals
 
@@ -29,5 +29,4 @@ The following is needed to run test: ${data.test}
 This project is license under the [MIT License].
 
 ## Questions
-If you have any questions about the repo, open an issue or contact Ruskin A. 
-directly at : 
+If you have any questions about the repo, open an issue or contact me "Ruskin A." directly through [Email](ruskin.acevedo@gmail.com).

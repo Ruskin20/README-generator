@@ -48,7 +48,6 @@ const questions = [
         type: 'input',
         name: 'test',
         message: 'How to test?',
-        default: 'npm test'
     },
 ];
 
