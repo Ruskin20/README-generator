@@ -1,21 +1,22 @@
 
-  # READme 
+  # Readme Generator
+  ![Github License](https://img.shields.io/badge/license-MIT-yellow.svg)
   
   ## Description
-  testing 123
+  Testing 1234
   ## Table of Contents
-  #[Installation](#installation)
-  #[Usage](#usage)
-  #[Tests](#tests)
-  #[License](#license)
-  #[Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Tests](#tests)
+  * [License](#license)
+   *[Questions](#questions)
 
   ## Installation 
 The following necessary dependencies must be installed to run application:
 nmp i
 
 ## Usage
-In order to use this app, testing123
+In order to use this app, Testing 1234
 
 ## Tests
 The following is needed to run test: npm test

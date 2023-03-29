@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== 'None') {
-    return '![Github License]'
+    return `![Github License](https://img.shields.io/badge/license-${license}-yellow.svg)`;
   }
   return '';
 }
@@ -30,6 +30,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `
   # ${data.title}
+  ${renderLicenseBadge(data.license)}
   
   ## Description
   ${data.description}
@@ -38,7 +39,7 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Tests](#tests)
   * [License](#license)
-   *[Questions](#questions)
+  *[Questions](#questions)
 
   ## Installation 
 The following necessary dependencies must be installed to run application:
