@@ -30,4 +30,4 @@ The following is needed to run test: node index.js
 This project is license under the [MIT License].
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me "Ruskin A." directly through [Email](ruskin.acevedo@gmail.com).
+If you have any questions about the repo, open an issue or contact me "Ruskin A." directly through Email at ruskin.acevedo@gmail.com.
