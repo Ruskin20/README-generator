@@ -27,7 +27,7 @@ The following is needed to run test: node index.js
 ![This is an image](./Develop/assets/images/Screenshot%20(28).png)
 
 ## License
-This project is license under the [MIT License].
+This project is license under the [MIT License](https://raw.githubusercontent.com/Ruskin20/README-generator/main/LICENSE).
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me "Ruskin A." directly through Email at ruskin.acevedo@gmail.com.
