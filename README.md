@@ -24,6 +24,7 @@ This is a README.md file generator which creates a README.md file by taking user
 The following is needed to run test: node index.js
 
 ## Visuals
+![This is an image](./Develop/assets/images/Screenshot%20(28).png)
 
 ## License
 This project is license under the [MIT License].
